@@ -1,5 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
+Name : S Rohith
+Register Number : 212224060219
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
